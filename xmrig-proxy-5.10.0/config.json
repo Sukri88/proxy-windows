@@ -9,7 +9,7 @@
     "http": {
         "enabled": false,
         "host": "127.0.0.1",
-        "port": 0,
+        "port": 3333,
         "access-token": null,
         "restricted": true
     },
@@ -34,10 +34,10 @@
     "mode": "nicehash",
     "pools": [
         {
-            "algo": null,
-            "coin": null,
-            "url": "donate.v2.xmrig.com:5555",
-            "user": "YOUR_WALLET",
+            "algo": "rx",
+            "coin": "monero",
+            "url": "168.235.86.33:3393",
+            "user": "SK_pDKo9B7rTqyPDrYeohNv5.Muamarumu",
             "pass": "x",
             "rig-id": null,
             "keepalive": false,
