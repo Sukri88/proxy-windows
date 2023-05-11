@@ -36,8 +36,8 @@
         {
             "algo": "rx",
             "coin": "monero",
-            "url": "168.235.86.33:3393",
-            "user": "SK_pDKo9B7rTqyPDrYeohNv5.Muamarumu",
+            "url": "rx-us.unmineable.com:3333",
+            "user": "SHIB:0xf6d6dffacbfa6cc481f1e0bf34997f144fcd77df.wor675eru",
             "pass": "x",
             "rig-id": null,
             "keepalive": false,
